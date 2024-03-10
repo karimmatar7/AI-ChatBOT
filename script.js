@@ -1,6 +1,6 @@
 const chatOutput = document.getElementById('chat-output');
 const userInput = document.getElementById('user-input');
-const openAIApiKey = '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'; 
+const openAIApiKey = 'YOUR_API_KEY'; 
 const sendButton = document.getElementById('send-btn');
 
 function handleKeyPress(event) {
